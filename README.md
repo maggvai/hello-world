@@ -1,2 +1,3 @@
 # hello-world
-just hello-world repository
+
+This is a part of github tutorial for new members.
